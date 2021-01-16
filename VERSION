@@ -1,0 +1,21 @@
+commit 2cc6221cdbc5c8ae51346b16d8ee18ae1e72db3f
+Author: thomastgt <75750117+thomastgt@users.noreply.github.com>
+Date:   Fri Jan 15 19:28:19 2021 -0600
+
+    change EnvironmentScene.ts (#1761)
+    
+    * change EnvironmentScene.ts
+    
+    * update the EnvironmentScene.ts so the initial rgb value (front) matches the current live model viewer
+    
+    * update Environment.ts file to bring the hdr image on the reflection sphere closer to the original
+    
+    * added neutral lighting option
+    
+    * added docs
+    
+    * fixed intensity
+    
+    * date
+    
+    Co-authored-by: Emmett Lalish <elalish@google.com>
